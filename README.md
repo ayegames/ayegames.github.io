@@ -2,7 +2,7 @@
 
 ## AyeRacer
 The popular Tux Racer derivative ETR ported to used anthromorphic character, AyeMan
-https://github.com/ayegames/ayeracer
+[AyeRacer repo](https://github.com/ayegames/ayeracer)
 
 ## Notices:
 (C) Copyright 2019 Abhishek Choudhary
