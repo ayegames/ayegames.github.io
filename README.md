@@ -6,6 +6,8 @@ The popular Tux Racer derivative ETR ported to use anthromorphic character, AyeM
 
 ![AyeMan](https://raw.githubusercontent.com/ayegames/ayeracer/master/data/char/ayeman/preview.png)
 
+AyeMan was created / born in the early hours of 2nd March 2019 as an anthromorphic mascot for AyeAI projects
+
 The AyeMan character is (C) Copyright 2019 Abhishek Choudhary
 
 ## Notices:
