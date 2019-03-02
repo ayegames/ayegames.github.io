@@ -6,7 +6,7 @@ The popular Tux Racer derivative ETR ported to used anthromorphic character, Aye
 
 ![AyeMan](https://raw.githubusercontent.com/ayegames/ayeracer/master/data/char/ayeman/preview.png)
 
-The AyeMan character is (C) Copyright 2019, Abhishek Choudhary
+The AyeMan character is (C) Copyright 2019 Abhishek Choudhary
 
 ## Notices:
 (C) Copyright 2019 Abhishek Choudhary
